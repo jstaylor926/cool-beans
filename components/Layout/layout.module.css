@@ -1,0 +1,18 @@
+.layout {
+    min-height: 100vh;
+}
+.header {
+    display: flex;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 2rem;
+    list-style: lower-roman;
+}
+
+.link {
+    margin: 1rem;
+    text-decoration: none;
+}
